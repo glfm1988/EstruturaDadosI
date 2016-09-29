@@ -6,8 +6,6 @@ janela enquanto o usu�rio n�o pressionar Cancel ou
 fechar a janela. Os n�meros dever�o ser armazenados
 em um array. Ao final, o programa dever� imprimir os
 n�meros em ordem crescente.
-
-TESTE TESTE TESTE
  */
 
 import java.io.BufferedReader;
