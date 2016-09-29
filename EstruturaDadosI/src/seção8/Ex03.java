@@ -1,6 +1,6 @@
 package seção8;
 
-import java.util.Arrays;
+//import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex03 {
@@ -23,7 +23,7 @@ public class Ex03 {
 				}
 			}
 		}
-		Arrays.sort(M);
+		//Arrays.sort(M);
 		ImprimeVetor(M); 
 	}
 	public static void ImprimeVetor(int M[]){
