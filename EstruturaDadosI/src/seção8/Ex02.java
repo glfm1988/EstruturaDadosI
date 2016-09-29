@@ -3,7 +3,7 @@ package seção8;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
+//import java.util.Arrays;
 
 public class Ex02 {
 	public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Ex02 {
 				x = leitor.readLine();
 				M[i] = x;
 			}
-			Arrays.sort(M);
+			//Arrays.sort(M);
 			ImprimeVetor(M);
 		} catch (NumberFormatException | IOException e) {
 		}
